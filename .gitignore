@@ -1,0 +1,13 @@
+# Latex 
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.xml
+*.gz
+
+# Images
+*.png
